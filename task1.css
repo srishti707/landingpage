@@ -1,0 +1,97 @@
+
+  .max-width{
+    display:flex;
+    background-color: lightslategrey;
+    height: 10%;
+    width:100%;
+    z-index: 999;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+  a{ 
+
+     color:whitesmoke;
+     text-decoration: none;
+     margin:2%;
+
+
+} 
+input{
+    
+    padding:1%;
+    border-radius:3px;
+    height:40%;
+}
+.icon{
+    margin-left:auto;
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-right:1%;
+    display:flex;
+    
+}
+ i{
+color: aliceblue;
+margin-right: 2%;
+
+}
+
+
+img{
+    position: relative;
+    width:100%;
+    height:auto;
+}
+
+.top-left{
+    position: absolute;
+     top: 90%;
+}
+ol{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sayings{
+    background-image:linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6)),url("https://images.yourstory.com/cs/images/companies/lenskaart-33-1587990847871.png?fm=png&auto=format&w=400&h=400&fit=fill&fill=solid"); 
+   background-size: cover;
+   background-repeat: repeat;
+   ba;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.list{
+display:flex;
+padding: 2%;
+margin:2%;
+justify-content: space-between;
+}
+.cards{
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+  padding:2%;
+  margin:2%;
+
+}
+.cards li{
+    margin:2%;
+    font-size: large;
+}
+
+.sayings i{
+    color:black;
+    margin-left:auto;
+    margin-right:1%;
+    
+}
+footer {
+   background-color: lightslategray;
+   width:100%;
+   height:10%;
+   z-index: 999;
+   size: 25%;
+display: inline-block;
+padding-top:3%;
+}
+
+footer i{
+    display:flex;
+    margin-left: auto;
+}
